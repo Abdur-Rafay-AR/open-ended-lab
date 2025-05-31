@@ -166,10 +166,6 @@ The system includes comprehensive error handling for:
 4. Push to the branch (`git push origin feature/new-feature`)
 5. Create a Pull Request
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## 📝 Lab Submission Notes
 
 ### Group Collaboration Requirements
@@ -191,8 +187,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👥 Contributors
 
-- **[Student 1 Name]** - [GitHub: @username1]
-- **[Student 2 Name]** - [GitHub: @username2]
+- **[Abdur Rafay]** - [GitHub: @Abdur-Rafay-AR]
+- **[Moazna Fatima]** - [GitHub: @Moazna]
 
 ## 🎓 Academic Information
 
